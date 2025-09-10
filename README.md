@@ -4,30 +4,40 @@
 
 ### 🚀 Sobre mí  
 Soy **desarrollador frontend** con enfoque en la **innovación** y la creación de experiencias digitales que combinan diseño claro con código sólido. Fundador de una **empresa de software**, donde he liderado proyectos para **organizaciones internacionales** y el sector privado, siempre con un balance entre **creatividad** y **eficiencia técnica**.  
+</div>
+---
+
 
 ---
 
-### 🛠️ Tecnologías  
+### 🛠️ Lenguajes y Herramientas  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=fff)  
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=fff)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</p>
 
 ---
 
 ### 📌 En lo que estoy trabajando  
-- Desarrollo de un **sistema de facturación escalable** (local + web).  
-- Un **asistente financiero personal con IA** usando Next.js + OpenAI API.  
+- Liderando la creación de mi empresa Innovativo.
+- Creación de **Expo virtuales** para organizaciones internacionales.  
+- Desarrollo de un **sistema de facturación escalable** (local + web) como uno de los productos de mi empresa.
+- Un **asistente financiero personal con IA** usando Next.js + OpenAI API como proyecto personal.
 - Creación de **plataformas LMS** para capacitación en línea.  
 
 ---
+<div align="center">
 
 ### 📊 Estadísticas de GitHub  
 
@@ -42,6 +52,6 @@ Creer que la tecnología no es solo software: es **resolver problemas reales**, 
 ---
 
 ### 📫 Cómo encontrarme  
-🌐 [Portafolio](#) • 💼 [LinkedIn](#) • 📧 juandavid.rodriguez0222@gmail.com  
+🌐 [Portafolio]((https://juandrodriguez.com/)) • 💼 [LinkedIn](https://www.linkedin.com/in/juan-david-rodriguez-hernandez-64142225a/) • 📧 juandavid.rodriguez0222@gmail.com  
 
 </div>
