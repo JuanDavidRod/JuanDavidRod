@@ -12,7 +12,7 @@ I’m a **frontend developer** focused on **innovation** and building meaningful
 
 ---
 
-### 🛠️ Lenguajes y Herramientas  
+### 🛠️ Languages & Tools  
 
 <p align="center">
   <!-- Core -->
@@ -52,7 +52,7 @@ I’m a **frontend developer** focused on **innovation** and building meaningful
 ---
 <div align="center">
 
-### 📊 Estadísticas de GitHub  
+### 📊  GitHub Stats   
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=JuanDavidRod&show_icons=true&theme=radical)  
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavidRod&layout=compact&theme=radical)  
@@ -64,7 +64,7 @@ I believe technology is not just software: it’s about **solving real problems*
 
 ---
 
-### 📫 Cómo encontrarme  
+### 📫 Connect with Me    
 🌐 [Portafolio](https://juandrodriguez.com/) • 💼 [LinkedIn](https://www.linkedin.com/in/juan-david-rodriguez-hernandez-64142225a/) • 📧 juandavid.rodriguez0222@gmail.com  
 
 </div>
